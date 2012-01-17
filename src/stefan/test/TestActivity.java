@@ -12,5 +12,5 @@ public class TestActivity extends Activity {
     }
     
     
-    //GIT Test2
+    //GIT Test2 - eine Änderung
 }
