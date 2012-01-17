@@ -11,5 +11,6 @@ public class TestActivity extends Activity {
         setContentView(R.layout.main);
     }
     
-    //test
+    
+    //GIT Test
 }
