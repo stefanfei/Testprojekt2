@@ -10,7 +10,4 @@ public class TestActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
-    
-    
-    //GIT Test2 - neue Änderung
 }
